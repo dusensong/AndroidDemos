@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Text-->
+    <color name="text_primary">#333333</color> <!--重要文字信息，标题文字信息-->
+    <color name="text_primary_60">#66333333</color>
+    <color name="text_content">#555555</color> <!--重要文字信息，标题文字信息-->
+    <color name="text_secondary">#666666</color> <!--次要信息-->
+    <color name="text_auxiliary">#888888</color> <!--辅助信息-->
+    <color name="text_hint">#cccccc</color>
+
+    <color name="black_overlay">#66000000</color><!--文本提示-->
+</resources>
