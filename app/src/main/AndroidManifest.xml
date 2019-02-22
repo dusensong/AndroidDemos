@@ -31,6 +31,10 @@
             android:label="@string/title_activity_first">
         </activity>
         <activity
+            android:name=".activity.template.ActivityTemplatesActivity"
+            android:label="@string/title_activity_activity_templates">
+        </activity>
+        <activity
             android:name=".activity.template.BasicActivity"
             android:label="@string/title_activity_basic"
             android:theme="@style/AppTheme.NoActionBar">
@@ -64,6 +68,25 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="cn.dss.android.activity.template.BookListActivity"/>
+        </activity>
+        <activity
+            android:name=".activity.template.NavigationDrawerActivity"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".activity.template.ScrollingActivity"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".activity.template.SettingsActivity"
+            android:label="@string/title_activity_settings">
+        </activity>
+        <activity
+            android:name=".activity.template.TabsActivity"
+            android:label="@string/title_activity_tabs"
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>
 
